@@ -9,3 +9,9 @@ run migrate command
 #update .env.test
 KERNEL_CLASS=App\Kernel
 DATABASE_URL=<db_host_url>
+
+#Time Spend
+4 Hrs
+
+#AI Toold Used
+ChatGPT, Gemini
